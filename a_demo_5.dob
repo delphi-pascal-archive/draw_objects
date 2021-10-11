@@ -1,0 +1,23 @@
+[TTextBezier:TextBezier1]
+ButtonCount=7
+ButtonSize=4
+BtnPoints=(42,135) (148,229) (380,42) (498,124) (588,187) (621,301) (762,301) 
+Color=$0000FF80
+ColorShadow=$00C0C0C0
+Height=343
+Left=8
+Pen.Color=$00000000
+Pen.Style=psSolid
+Pen.Width=2
+ShadowSize=2
+Top=28
+Width=804
+ObjId=00A71CA0
+Text=Text Bezier Object
+Font.Charset=1
+Font.Color=$00000000
+Font.Name=Arial
+Font.Size=48
+Font.Style=fsBold
+Outline=foColored
+
